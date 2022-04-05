@@ -6,7 +6,7 @@
 The project is implemented in Java with SOLID principles & Dependency Injection,
 has a 3-tier architecture.
 ***
-##Functionality of Taxi Service 🚕
+# Functionality of Taxi Service 🚕
 ___
 * Register
 * Login / logout
@@ -21,13 +21,13 @@ The following steps are available only after successful authentication
 * Create new Manufacturer
 * Add Driver to Car
 ***
-##Structure: 3-tier architecture 🚕
+# Structure: 3-tier architecture 🚕
 ___
 * DAO - Data Tier
 * Service - Business Tier
 * Controllers - Presentation Tier
 ***
-##Technologies 🚕
+# Technologies 🚕
 ___
 * Java 11
 * Tomcat 9.0.60
@@ -39,7 +39,7 @@ ___
 * JSP
 * HTML, CSS
 ***
-##How to run a project 🚕
+# How to run a project 🚕
 ___
 You need to install Ultimate IntelliJ IDEA, MySQL, TomСat webserver (version 9).
 1. Configure TomСat.
