@@ -10,13 +10,13 @@ has a 3-tier architecture.
 ___
 * Register
 * Login / logout
+* Create new Driver
 
 The following steps are available only after successful authentication
 * Display All Drivers
 * Display All Cars
 * Display All Current Cars
 * Display All Manufacturers
-* Create new Driver
 * Create new Car
 * Create new Manufacturer
 * Add Driver to Car
